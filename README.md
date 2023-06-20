@@ -4,6 +4,8 @@ Here are some of my personal projects.
 I'm currently migrating some of the projects to my personal Gitea instance at [git.huber.cloud](https://git.huber.cloud/Moritz).  
 That's why some repos here are not up-to date or missing completely
 
+The Project I'm currently working most on is [betterHM](https://github.com/Huber1/betterHM), an inofficial App for the Hochschule Munich
+
 
 <!--
 **Huber1/Huber1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
