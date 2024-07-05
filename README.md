@@ -3,6 +3,7 @@ Here are some of my personal projects.
 
 The Project I'm currently working most on is [betterHM](https://github.com/Huber1/betterHM), an inofficial App for the Hochschule Munich
 
+Note: Not all repos are here because I'm slowly migrating my repos to my personal Forgejo instance at [https://git.huber.cloud/moritz]
 
 <!--
 **Huber1/Huber1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
