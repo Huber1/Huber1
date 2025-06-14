@@ -1,7 +1,7 @@
 ### Hi there 👋
 Here are some of my personal projects.
 
-The Project I'm currently working most on is [betterHM](https://github.com/Huber1/betterHM) and some Minecraft Plugins, an inofficial App for the Hochschule Munich
+The Project I'm currently working most on is [betterHM](https://github.com/Huber1/betterHM), an inofficial App for the Hochschule Munich and some Minecraft Plugins
 
 Note: Not all repos are here because I'm slowly migrating my repos to my personal Forgejo instance at https://git.huber.cloud/moritz
 
